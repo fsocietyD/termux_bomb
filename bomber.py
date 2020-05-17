@@ -1,6 +1,6 @@
 import os
 import time
-from termcolor import colored
+
 
 
 banner = '''
